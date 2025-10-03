@@ -40,3 +40,5 @@
 
 ---
 ---
+
+<img width="875" height="421" alt="Ekran görüntüsü 2025-10-03 143203" src="https://github.com/user-attachments/assets/6047653f-b473-4e02-9dda-e7ba71df83d1" />
